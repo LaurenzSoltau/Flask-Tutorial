@@ -1,0 +1,4 @@
+include Herzbrücke/schema.sql
+graft Herzbrücke/static
+graft Herzbrücke/templates
+global-exclude *.pyc
